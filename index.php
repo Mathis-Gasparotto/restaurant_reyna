@@ -107,8 +107,11 @@ require_once "layout/navbar_index.php";
           </svg>
           <h2>La carte</h2>
         </div>
-        <a id="menu-dl" href="img/menu.png" download="menu_reyna.png">Télécharger la carte</a>
+        <!-- <a id="menu-dl" href="img/menu.png" download="menu_reyna.png">Télécharger la carte</a>
         <a href="img/menu.png"><img id="menu-img" src="img/menu.png" alt="menu reyna" /></a>
+      </div> -->
+        <a id="menu-dl" href="https://drive.google.com/u/0/uc?id=1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U&export=download">Télécharger la carte</a>
+        <a href="https://drive.google.com/file/d/1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U"><img id="menu-img" src="https://drive.google.com/uc?id=1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U" alt="menu reyna" /></a>
       </div>
     </div>
 
