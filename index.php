@@ -139,7 +139,7 @@ require_once "layout/navbar_index.php";
       </div>
       <div class="categorie-full-width" id="resto-about">
         <div id="resto-about-content">
-          <iframe scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=145%20Rue%20Marius%20Berliet,%2069008%20Lyon+(Restaurant%20Reyna)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0"></iframe>
+          <iframe scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=fr&amp;q=145%20Rue%20Marius%20Berliet,%2069008%20Lyon+(Restaurant%20Reyna)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0"></iframe>
           <div id="hours">
             <svg id="hours-picto" xmlns="http://www.w3.org/2000/svg" width="85.04" height="85" viewBox="0 0 85.04 85">
               <g id="Groupe_52" data-name="Groupe 52">
