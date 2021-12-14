@@ -107,11 +107,10 @@ require_once "layout/navbar_index.php";
           </svg>
           <h2>La carte</h2>
         </div>
-        <!-- <a id="menu-dl" href="img/menu.png" download="menu_reyna.png">Télécharger la carte</a>
-        <a href="img/menu.png"><img id="menu-img" src="img/menu.png" alt="menu reyna" /></a>
-      </div> -->
-        <a id="menu-dl" href="https://drive.google.com/u/0/uc?id=1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U&export=download">Télécharger la carte</a>
-        <a href="https://drive.google.com/file/d/1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U"><img id="menu-img" src="https://drive.google.com/uc?id=1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U" alt="menu reyna" /></a>
+        <a id="menu-dl" href="img/menu.jpg" download="menu_reyna.jpg">Télécharger la carte</a>
+        <a href="img/menu.jpg"><img id="menu-img" src="img/menu.jpg" alt="menu reyna" /></a>
+        <!-- <a id="menu-dl" href="https://drive.google.com/u/0/uc?id=1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U&export=download">Télécharger la carte</a>
+        <a href="https://drive.google.com/file/d/1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U"><img id="menu-img" src="https://drive.google.com/uc?id=1qPr6-OmODwyNBey7b4nXQG-C_IbncS4U" alt="menu reyna" /></a> -->
       </div>
     </div>
 
@@ -154,13 +153,13 @@ require_once "layout/navbar_index.php";
               </g>
             </svg>
             <div id="hours-content">
-              <h4>Lundi………………..17h30-21h30</h4>
-              <h4>Mardi.……………....17h30-21h30</h4>
-              <h4>Mercredi...……....17h30-21h30</h4>
-              <h4>Jeudi.….…………....17h30-21h30</h4>
-              <h4>Vendredi.….….....17h30-21h30</h4>
-              <h4>Samedi.…….……..17h30-22h00</h4>
-              <h4>Dimanche.…......17h30-21h30</h4>
+              <h4>Lundi………………..19h00-23h00</h4>
+              <h4>Mardi.……………....19h00-23h00</h4>
+              <h4>Mercredi...……....19h00-23h00</h4>
+              <h4>Jeudi.….…………....19h00-23h00</h4>
+              <h4>Vendredi.….….....19h00-23h00</h4>
+              <h4>Samedi.…….……..19h00-23h00</h4>
+              <h4>Dimanche.…......19h00-23h00</h4>
             </div>
             <div id="tel">
               <a href="tel:+33478754359">
